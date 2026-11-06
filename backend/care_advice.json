@@ -1,0 +1,76 @@
+{
+  "snake_plant": {
+    "healthy": [
+      "Water every 2-3 weeks.",
+      "Bright indirect light is best.",
+      "Wipe leaves occasionally."
+    ],
+    "conditions": {
+      "yellowing": [
+        "Likely overwatering. Let the soil dry fully.",
+        "Check that the pot drains."
+      ],
+      "brown_spots": [
+        "Check for sunburn or fungal spots.",
+        "Avoid wetting the leaves."
+      ],
+      "wilting": [
+        "Check the roots for rot.",
+        "Repot in fresh, well-draining soil."
+      ]
+    }
+  },
+  "aloe_vera": {
+    "healthy": [
+      "Water every 2-3 weeks.",
+      "Give it direct sunlight for a few hours."
+    ],
+    "conditions": {
+      "yellowing": [
+        "Reduce watering.",
+        "Make sure the soil is sandy and drains well."
+      ],
+      "brown_spots": [
+        "Move out of harsh midday sun.",
+        "Remove badly damaged leaves."
+      ],
+      "wilting": ["Check for root rot.", "Do not water until the soil is dry."]
+    }
+  },
+  "money_plant": {
+    "healthy": [
+      "Water when the top inch of soil is dry.",
+      "Bright indirect light."
+    ],
+    "conditions": {
+      "yellowing": [
+        "Reduce watering.",
+        "Remove yellow leaves.",
+        "Check light levels."
+      ],
+      "brown_spots": ["Avoid direct harsh sun.", "Increase humidity slightly."],
+      "wilting": [
+        "Water if the soil is dry.",
+        "Check for pests under the leaves."
+      ]
+    }
+  },
+  "default": {
+    "healthy": [
+      "Water when the top soil is dry.",
+      "Give bright indirect light.",
+      "Keep away from drafts."
+    ],
+    "conditions": {
+      "yellowing": [
+        "Check watering frequency and drainage.",
+        "Check light and nutrients."
+      ],
+      "brown_spots": [
+        "Check for sunburn, fungus, or pests.",
+        "Avoid wetting the leaves."
+      ],
+      "wilting": ["Check soil moisture and roots.", "Look for pests."]
+    }
+  }
+}
